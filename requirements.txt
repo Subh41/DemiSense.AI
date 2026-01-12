@@ -1,0 +1,16 @@
+# Deep Learning / Machine Learning Dependencies
+tensorflow
+scikit-learn
+matplotlib
+Pillow
+numpy
+
+# Jupyter Notebook Support
+jupyter
+ipykernel
+
+# Image Processing
+opencv-python
+
+# Data Handling
+pandas
